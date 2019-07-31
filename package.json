@@ -1,0 +1,6 @@
+{
+    "name": "client",
+    "scripts": {
+        "dev": "nuxt"
+    }
+}
